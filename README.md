@@ -20,7 +20,7 @@
   * w1 - Introduction to deep learning
   * w2 - Neural Networks Basics
   * w3 - Shallow Neural Networks
-  * w3 - Deep Neural Networks
+  * w4 - Deep Neural Networks
 
 ## Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
   * w1 - Practical Aspects of Deep Learning
